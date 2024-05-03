@@ -8,6 +8,6 @@ I am happy to share that our paper, "Benchmarking the Fairness of Image Upsampli
 
 In this work, we introduce a comprehensive framework for benchmarking the performance and fairness of conditional generative models. We explore the specific application of image upsampling and create a benchmark covering a wide variety of modern upsampling methods.
 
-Check out our preprint on arXiv: https://arxiv.org/abs/2401.13555
+Check out our preprint on [arXiv](https://arxiv.org/abs/2401.13555).
 
 Thanks to my awesome collaborators at ETH Zurich, UHH, and RUB! 
