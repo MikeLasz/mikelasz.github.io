@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+- Summer term 24: Mathematics II for Geology and Sales Engineering
+- Winter term 23/24: Discrete Mathematics
 - Summer term 23: Computer Science II
 - Winter term 22/23: Mathematics I for Computer Scientists
 - Summer term 22: Computer Science II
