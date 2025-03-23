@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Doctoral student working in the Machine Learning group at RUB. My research revolves around deep generative models, such as generative adversarial networks, normalizing flows, diffusion models, and more. I seek to understand those models, uncover their weaknesses, and implement practical improvements, which broaden their fields of application. 
+As an AI expert at the Landeskriminalamt NRW, I specialize in implementing state-of-the-art AI solutions to meet the evolving needs of the police in North Rhine-Westphalia. My primary focus is on leveraging advancements in the domains of natural language processing and large language models to combat cybercrime effectively. 
 
-In my spare time, I like to work on fun programming projects and improve my skills for my other passion: playing Lacrosse!
+Prior to this role, I completed a PhD, where I conducted research on generative models, laying the foundation for my current work at the intersection of AI and public safety.
